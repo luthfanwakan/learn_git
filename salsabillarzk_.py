@@ -6,3 +6,4 @@ for i in range(n):
     else :
         deret_fibonacci.append(deret_fibonacci[i-1]+deret_fibonacci[i-2])
 print(deret_fibonacci)
+
