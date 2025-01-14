@@ -1,3 +1,5 @@
+# fibonacci haidar
+
 n = int(input("Enter a number: "))
 a, b = 1, 1
 fib = []
