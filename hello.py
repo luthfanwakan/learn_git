@@ -1,1 +1,1 @@
-print("Hello Fariz!")
+print("Arya Ganteng!")
