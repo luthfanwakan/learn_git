@@ -8,4 +8,4 @@ for i in list(range(angka-2)):
     nilai.append(kucing)
     
 
- print(nilai) 
+print(nilai) 
