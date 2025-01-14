@@ -6,4 +6,5 @@ for i in range(number-2):
     hasil = nilai[i] + nilai[i+1]
     nilai.append(hasil)
 
+#
 print(nilai)
